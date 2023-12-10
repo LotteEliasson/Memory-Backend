@@ -11,7 +11,7 @@ import memgrp.memorize.entity.Suit;
 public class SuitResponse {
 
     int suitId;
-    Strin suuitName;
+    String suitName;
     String suitDescription;
 
     public SuitResponse(Suit suit){
